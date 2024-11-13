@@ -1,7 +1,7 @@
 # Pandas Challenge
 The overall code was completed with the help of tutors booked through the tutoring services avaibale for bootcamp as well as using xpert learning assistant on canvas.
 
-# Summay of Analysis
+# Summary of Analysis
 The analysis was done on the basis of bugdet spending per student, size of the school and the school type. Interestingly, the students passing with higher grade are from the range of minimal budget spending indicating those students are more focused on studies. The data summary for school size shows that schools with 2000 or higher number students, the score can be hugely diversified based on the diversity of students you have enrolled in your school. The chances are students scoring lower end are more populated compare to students who score higher. Last but not the least, studenst in charter school are doing very well overall in scoring Math and Reading. Also % of student passing Math and %overall passing in charter school are much higher compare to the % passiing students from district school. 
 To conclude, schools with minimal budget spending per student, small to medium size with under 2000 students and charter schools are doing very well with respect to overll passing percentage.
 
